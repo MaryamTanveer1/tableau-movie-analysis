@@ -1,6 +1,6 @@
 # 🎬 Tableau Movie Industry Dashboard
 
-![Movie Dashboard Preview](Image/Movie Analysis.png)
+![Movie Dashboard Preview](Image/Movie_Analysis.png)
 
 A data visualization project exploring trends in the movie industry using Tableau. This includes insights on IMDb scores, genre performance, director analytics, and vote distributions.
 
